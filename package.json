@@ -1,0 +1,22 @@
+{
+	"name": "midterm",
+	"version": "1.0.0",
+	"description": "kab342's midterm",
+	"main": "index.js",
+	"scripts": {
+		"startMacTest": "browser-sync start -s -b 'google chrome'"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/knewyousir/wfeFnd-midterm.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/knewyousir/wfeFnd-midterm/issues"
+	},
+	"homepage": "https://github.com/knewyousir/wfeFnd-midterm#readme",
+	"dependencies": {
+		"browser-sync": "^2.18.13"
+	}
+}
